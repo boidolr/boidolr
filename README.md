@@ -1,3 +1,8 @@
+Hi there!
+========================
+
+I am a consultant with experience working as a full-stack developer, tech lead and architect in designing, developing, and implementing high-end solutions for various industries.
+
 <div align="center">
 
 <!--
