@@ -59,6 +59,10 @@ name = "Node.js"
 url = "https://nodejs.org/"
 
 [[skills]]
+name = "Astro"
+url = "https://astro.build/"
+
+[[skills]]
 name = "Express"
 url = "https://expressjs.com/"
 
