@@ -1,0 +1,29 @@
+name: Update profile
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+
+      - run: python3 .github/update-profile.py
+
+      - uses: boidolr/actions/git-push@main
+        with:
+          branch: main
+          message: "chore: update readme"

@@ -1,0 +1,111 @@
+[[skills]]
+name = "JavaScript"
+url = "https://developer.mozilla.org/docs/Web/JavaScript"
+
+[[skills]]
+name = "TypeScript"
+url = "https://www.typescriptlang.org/"
+
+[[skills]]
+name = "Kotlin"
+url = "https://kotlinlang.org/"
+
+[[skills]]
+name = "Python"
+url = "https://www.python.org/"
+
+[[skills]]
+name = "CSS3"
+url = "https://www.w3.org/TR/CSS/"
+
+[[skills]]
+name = "Sass"
+url = "https://sass-lang.com/"
+
+[[skills]]
+name = "HTML5"
+url = "https://developer.mozilla.org/docs/Glossary/HTML5"
+
+[[skills]]
+name = "Spring"
+url = "https://spring.io/"
+
+[[skills]]
+name = "Quarkus"
+url = "https://quarkus.io/"
+
+[[skills]]
+name = "Apache Spark"
+url = "https://spark.apache.org/"
+
+[[skills]]
+name = "Vue.js"
+url = "https://vuejs.org/"
+
+[[skills]]
+name = "Angular"
+url = "https://angular.io/"
+
+[[skills]]
+name = "Tailwind CSS"
+url = "https://tailwindcss.com/"
+
+[[skills]]
+name = "Bootstrap"
+url = "https://getbootstrap.com/"
+
+[[skills]]
+name = "Node.js"
+url = "https://nodejs.org/"
+
+[[skills]]
+name = "Express"
+url = "https://expressjs.com/"
+
+[[skills]]
+name = "FastAPI"
+url = "https://fastapi.tiangolo.com/"
+
+[[skills]]
+name = "Flask"
+url = "https://flask.palletsprojects.com/"
+
+[[skills]]
+name = "Elasticsearch"
+url = "https://www.elastic.co/elasticsearch"
+
+[[skills]]
+name = "Redis"
+url = "https://redis.io/"
+
+[[skills]]
+name = "MongoDB"
+url = "https://www.mongodb.com/"
+
+[[skills]]
+name = "MySQL"
+url = "https://www.mysql.com/"
+
+[[skills]]
+name = "PostgreSQL"
+url = "https://www.postgresql.org/"
+
+[[skills]]
+name = "Git"
+url = "https://git-scm.com/"
+
+[[skills]]
+name = "GitHub Actions"
+url = "https://docs.github.com/actions"
+
+[[skills]]
+name = "Terraform"
+url = "https://www.terraform.io/"
+
+[[skills]]
+name = "Google Cloud"
+url = "https://cloud.google.com/"
+
+[[skills]]
+name = "Cloudflare"
+url = "https://cloudflare.com/"
