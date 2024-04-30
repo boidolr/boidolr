@@ -2,7 +2,7 @@
 
 I am a consultant with experience working as a full-stack developer, tech lead and architect in designing, developing, and implementing high-end solutions for various industries.
 
-### Languages and Tools
+### Languages, Frameworks, Tools and more
 
 <p align="center">
 <!-- SKILLS:START --><a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>

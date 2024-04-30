@@ -15,16 +15,16 @@ name = "Python"
 url = "https://www.python.org/"
 
 [[skills]]
+name = "HTML5"
+url = "https://developer.mozilla.org/docs/Glossary/HTML5"
+
+[[skills]]
 name = "CSS3"
 url = "https://www.w3.org/TR/CSS/"
 
 [[skills]]
 name = "Sass"
 url = "https://sass-lang.com/"
-
-[[skills]]
-name = "HTML5"
-url = "https://developer.mozilla.org/docs/Glossary/HTML5"
 
 [[skills]]
 name = "Spring"
@@ -39,12 +39,12 @@ name = "Apache Spark"
 url = "https://spark.apache.org/"
 
 [[skills]]
-name = "Vue.js"
-url = "https://vuejs.org/"
-
-[[skills]]
 name = "Angular"
 url = "https://angular.io/"
+
+[[skills]]
+name = "Vue.js"
+url = "https://vuejs.org/"
 
 [[skills]]
 name = "Tailwind CSS"
@@ -63,6 +63,10 @@ name = "Express"
 url = "https://expressjs.com/"
 
 [[skills]]
+name = "NestJS"
+url = "https://nestjs.com/"
+
+[[skills]]
 name = "FastAPI"
 url = "https://fastapi.tiangolo.com/"
 
@@ -77,6 +81,10 @@ url = "https://www.elastic.co/elasticsearch"
 [[skills]]
 name = "Redis"
 url = "https://redis.io/"
+
+[[skills]]
+name = "Apache Kafka"
+url = "https://kafka.apache.org/"
 
 [[skills]]
 name = "MongoDB"
@@ -97,6 +105,10 @@ url = "https://git-scm.com/"
 [[skills]]
 name = "GitHub Actions"
 url = "https://docs.github.com/actions"
+
+[[skills]]
+name = "Docker"
+url = "https://www.docker.com/"
 
 [[skills]]
 name = "Terraform"
