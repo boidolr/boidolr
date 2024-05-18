@@ -7,7 +7,7 @@ import tomllib
 def link_for(name: str, url: str, svg: str) -> str:
     img_url = f"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/{svg}/{svg}-original.svg"
 
-    return f'<a href="{url}" target="_blank" rel="noreferrer"><img src="{img_url}" width="36" height="36" alt="{name}" /></a>'
+    return f'<a href="{url}" target="_blank" rel="noreferrer"><img src="{img_url}" width="36" height="36" alt="{name}" referrerpolicy="no-referrer" loading="lazy"/></a>'
 
 
 def create_link(data):
