@@ -79,6 +79,10 @@ name = "Flask"
 url = "https://flask.palletsprojects.com/"
 
 [[skills]]
+name = "pytest"
+url = "https://pytest.org/"
+
+[[skills]]
 name = "Elasticsearch"
 url = "https://www.elastic.co/elasticsearch"
 
@@ -107,6 +111,10 @@ name = "Git"
 url = "https://git-scm.com/"
 
 [[skills]]
+name = "Gradle"
+url = "https://gradle.org/"
+
+[[skills]]
 name = "GitHub Actions"
 url = "https://docs.github.com/actions"
 
@@ -125,3 +133,7 @@ url = "https://cloud.google.com/"
 [[skills]]
 name = "Cloudflare"
 url = "https://cloudflare.com/"
+
+[[skills]]
+name = "Cloudflare Workers"
+url = "https://workers.cloudflare.com/"
