@@ -4,7 +4,7 @@ I am a consultant with experience working as a full-stack developer, tech lead a
 
 ### Languages, Frameworks, Tools and more
 
-<p align="center">
+<p align="center" style="display:flex;flex-wrap:wrap;justify-content:center">
 <!-- SKILLS:START --><a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" referrerpolicy="no-referrer" loading="lazy"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" referrerpolicy="no-referrer" loading="lazy"/></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin" referrerpolicy="no-referrer" loading="lazy"/></a>
